@@ -2,3 +2,8 @@
 .cache/
 dist/
 .DS_Store
+
+apps/
+target/
+node_modules/
+.history/
